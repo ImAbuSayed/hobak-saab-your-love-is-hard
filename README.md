@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 24, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/hobak-saab-your-love-is-hard/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Sync Licensing for Hobak Saa'b – Your Love is Hard](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
