@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Hobak Saa'b – Your Love is Hard
+
+This log tracks the cryptographic history and versioning for the song **Hobak Saa'b – Your Love is Hard** (hobak-saab-your-love-is-hard).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T11:18:35.412551 | `v1` | `ebeeaf1add7dd99675ff7b648f4fb948f061141bdfc6d85e7b882b6e0073d9d4` | `0c149bf6aa03b702aacd57eeacc3ec336e2ba5a32bcba838f7e73b5528756c46` | `2026-05-09_hobak-saab-your-love-is-hard-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
